@@ -4,3 +4,5 @@ build-essential
 python3-dev
 gdal-bin
 libgdal-dev
+libgl1
+libglib2.0-0
