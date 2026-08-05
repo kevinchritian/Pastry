@@ -1,5 +1,0 @@
-ultralytics
-streamlit
-pillow
-DateTime
-pandas
