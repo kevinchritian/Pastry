@@ -6,3 +6,8 @@ google-cloud
 google-cloud-bigquery
 pandas
 datetime
+ultralytics
+streamlit
+pillow
+DateTime
+pandas
